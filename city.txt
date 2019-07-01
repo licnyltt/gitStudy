@@ -1,6 +1,5 @@
 hello world
 next
-aaaa
 bbb
 ccc
 eee
